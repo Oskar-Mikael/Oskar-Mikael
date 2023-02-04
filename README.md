@@ -10,7 +10,7 @@
 <br>
 <h2 style="font-size:30px" align ="left" width = 100%><u>Languages and Frameworks</u></h2>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> 
-<a href="https://www.laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/Laravel?style=for-the-badge&logo=Laravel&logoColor=white" alt="laravel" /> </a> 
+<a href="https://www.laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" /> </a> 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"" /> </a> </p>
 
 <br>
