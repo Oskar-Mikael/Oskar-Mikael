@@ -12,7 +12,7 @@
 <a href="https://php.net" target="_blank"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a> 
 <a href="https://www.laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"" /> </a>
- <a href="https://vuejs.org/" target="_blank"> <img src=" https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08De" alt="vue"" /> </a>
+ <a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08De" alt="vue"" /> </a>
 
 <br>
 <div>
