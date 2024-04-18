@@ -2,7 +2,7 @@
 
 <div align = "left" width = 50%>
 <ul>
-<li>Junior Fullstack Web Developer</li>
+<li>Fullstack Web Developer</li>
 <li>Specializing and always up to date with PHP and Laravel</li>
 <ul>
 </div>
